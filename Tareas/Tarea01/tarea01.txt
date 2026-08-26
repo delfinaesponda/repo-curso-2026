@@ -1,0 +1,657 @@
+Script started on Wed Aug 26 18:30:04 2026
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi Tarea01 % [K[?2004hppwd[?2004l
+/Users/delfi/documents/CienciadDatos-520/repo-curso-2026/Tareas/Tarea01
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi Tarea01 % [K[?2004hccd /[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi / % [K[?2004hppws d[?2004l
+/
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi / % [K[?2004hccd home[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /home % [K[?2004hppwd[?2004l
+/home
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /home % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi / % [K[?2004hppwd[?2004l
+/
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi / % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi ~ % [K[?2004hppwd[?2004l
+/Users/delfi
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi ~ % [K[?2004hccd ../..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi / % [K[?2004hppwd[?2004l
+/
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi / % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi ~ % [K[?2004hppwd[?2004l
+/Users/delfi
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi ~ % [K[?2004hccd ../../etc[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /etc % [K[?2004hppwd[?2004l
+/etc
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /etc % [K[?2004hccd/  /[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi / % [K[?2004hccd etc[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /etc % [K[?2004hppwd[?2004l
+/etc
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /etc % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi ~ % [K[?2004hppwd[?2004l
+/Users/delfi
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi ~ % [K[?2004hccd etc[?2004l
+cd: no such file or directory: etc
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi ~ % [K[?2004hccd /etc[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /etc % [K[?2004hppwd[?2004l
+/etc
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /etc % [K[?2004hwwhoami[?2004l
+delfi
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /etc % [K[?2004hccd /home/delfi/Desktop[?2004l
+cd: no such file or directory: /home/delfi/Desktop
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /etc % [K[?2004hccd /home/user/Desktop[?2004l
+cd: no such file or directory: /home/user/Desktop
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /etc % [K[?2004hccd /home/delfi/Desktop[?2004l
+cd: no such file or directory: /home/delfi/Desktop
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /etc % [K[?2004hccd /Users/delfi/Desktop[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi Desktop % [K[?2004hppwd[?2004l
+/Users/delfi/Desktop
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi Desktop % [K[?2004hccd ~[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi ~ % [K[?2004hppwd[?2004l
+/Users/delfi
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi ~ % [K[?2004hdde ~ d  ccd~  ~/Desktop[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi Desktop % [K[?2004hppwd[?2004l
+/Users/delfi/Desktop
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi Desktop % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi ~ % [K[?2004hccd /[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi / % [K[?2004hccd /  ~/Desktop[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi Desktop % [K[?2004hccd /etc[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /etc % [K[?2004hccd /var/log[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi log % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /var % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi ~ % [K[?2004hmmkdir /tmp/tutorial[?2004l
+mkdir: /tmp/tutorial: File exists
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi ~ % [K[?2004hccd /tmp/tutorial[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hppwd[?2004l
+/tmp/tutorial
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmmkdir   m  ccd[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi ~ % [K[?2004hccd /tmp[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /tmp % [K[?2004hmmkdir /tutorial[1C[1C[1C         tur torial[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /tmp % [K[?2004hppwd[?2004l
+/tmp
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi /tmp % [K[?2004hccd /tmp/tutorial[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmmkdir dir1 dir2 dir3[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmmk dir[?2004l
+usage: mkdir [-pv] [-m mode] directory_name ...
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hccd /etc ~/Deskti op[?2004l
+cd: string not in pwd: /etc
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls[?2004l
+dir1	dir2	dir3
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmmkdir -p dir4/dir5/dir6[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls[?2004l
+dir1	dir2	dir3	dir4
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hddsd  ccd dir4[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi dir4 % [K[?2004hlls[?2004l
+dir5
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi dir4 % [K[?2004hccd dir 5[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi dir5 % [K[?2004hlls[?2004l
+dir6
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi dir5 % [K[?2004hccd ../..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmmkdir another folder[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls[?2004l
+another	dir1	dir2	dir3	dir4	folder
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmmkdir "folder1"[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmmkdir ¨f  ´folder       'folde2'  r2'[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmmkdir ⁄ [7m\[27m[27m\ folder 3[?2004l
+mkdir: folder: File exists
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmmkdir "folder4" "folder5"[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmmkdir -p "folder6" Folder"       # "foldr er7"          / "folder/ 7"[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls[?2004l
+3	another	dir1	dir2	dir3	dir4	folder	folder1	folder2	folder4	folder5	folder6	folder7
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls > output.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hccat output.txt[?2004l
+3
+another
+dir1
+dir2
+dir3
+dir4
+folder
+folder1
+folder2
+folder4
+folder5
+folder6
+folder7
+output.txt
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hccat[?2004l
+hello
+hello
+wg hta  at
+what
+\ \ ^C
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004heecho "This is a test"[?2004l
+This is a test
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004heecho "this     Thisii   is a test" > test_1.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004heecho "This is a second tesy t" > test_2.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hecho "This is a second test" > test_2.txt.txt 3.txt[1C[P[19C [20D[P[19C [20D[P[19C [20D[P[19C [20D[P[19C [20D[P[19C [20Dt test" > test_3.txt[19Dh test" > test_3.txt[19Di test" > test_3.txt[19Dr test" > test_3.txt[19Dd test" > test_3.txt[19D[1C test" > test_3.txt[19D[P[18C [20D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls[?2004l
+3		dir2		folder		folder4		folder7		test_2.txt
+another		dir3		folder1		folder5		output.txt	test_3.txt
+dir1		dir4		folder2		folder6		test_1.txt
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004h[7mcat test_1.txt test_2.txt test_3.txt[27m[36D[27mc[27ma[27mt[27m [27mt[27me[27ms[27mt[27m_[27m1[27m.[27mt[27mx[27mt[27m [27mt[27me[27ms[27mt[27m_[27m2[27m.[27mt[27mx[27mt[27m [27mt[27me[27ms[27mt[27m_[27m3[27m.[27mt[27mx[27mt [?2004l
+This is a test
+This is a second test
+This is a third test
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hccat t* > combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hccat combined.txt[?2004l
+This is a test
+This is a second test
+This is a third test
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hcat combined.txt[12Dt* > combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hcat t* > combined.txt[17D[5P[12C     [?2004l
+This is a test
+This is a second test
+This is a third test
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hccat t* >> combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004heecho "I've append a file"     line!" >> combined.txt[?2004l
+[0m[27m[24m[Jdquote> [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004h[7mecho "I've append a line!" >> combined.txt[27m[42D[27me[27mc[27mh[27mo[27m [27m"[27mI[27m'[27mv[27me[27m [27ma[27mp[27mp[27me[27mn[27md[27m [27ma[27m [27ml[27mi[27mn[27me[27m![27m"[27m [27m>[27m>[27m [27mc[27mo[27mm[27mb[27mi[27mn[27me[27md[27m.[27mt[27mx[27mt [?2004l
+[0m[27m[24m[Jdquote> [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004h[7mecho "I've appended a line!" >> combined.txt[27m[44D[27me[27mc[27mh[27mo[27m [27m"[27mI[27m'[27mv[27me[27m [27ma[27mp[27mp[27me[27mn[27md[27me[27md[27m [27ma[27m [27ml[27mi[27mn[27me[27m![27m"[27m [27m>[27m>[27m [27mc[27mo[27mm[27mb[27mi[27mn[27me[27md[27m.[27mt[27mx[27mt [?2004l
+[0m[27m[24m[Jdquote> [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004heecho ? 'I've    have append a line!' >> combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hccat combined.txt[?2004l
+This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+I have append a line!
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hcat combined.txt[16Decho 'I have append a line!' >> combined.txt[39D"I'[P[P[9Ced a line[16C  [26D[P[P[24C  [40Dcat t*[18P[16C                  [18D[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hcat t* >> combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hcat t* >> combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004heecho " 'me llamo delfi' >> combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004heecho 'cienciadedato       de datos' >> combines d.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004heecho 'economia´ ' >> combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004heecho ´ 'clases' >> combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hccat combined.txt[?2004l
+This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+I have append a line!
+This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+me llamo delfi
+ciencia de datos
+economia
+clases
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlless combined.txt[?2004l
+[?1049h[16;1H[?1h=This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+I have append a line!
+This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+[7mcombined.txt[27m[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KBB[KThis is a third test
+:[K[K [KESCESC[KOO[KBB[Kme llamo delfi
+:[K[K [KESCESC[KOO[KBB[Kciencia de datos
+:[K[K [KESCESC[KOO[KBB[Keconomia
+:[K[K [KESCESC[KOO[KBB[Kclases
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[HMThis is a second test
+[16;1H[K:[K[K [KESCESC[KOO[KAA[K[HMThis is a test
+[16;1H[K:[K[K [KESCESC[KOO[KAA[K[HMThis is a third test
+[16;1H[K:[K[K [KESCESC[KOO[KAA[K[HMThis is a second test
+[16;1H[K:[K[K [KESCESC[KOO[KAA[K[HMThis is a test
+[16;1H[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KBB[KThis is a third test
+:[K[K [KESCESC[KOO[KBB[Kme llamo delfi
+:[K[K [KESCESC[KOO[KBB[Kciencia de datos
+:[K[K [KESCESC[KOO[KBB[Keconomia
+:[K[K [KESCESC[KOO[KBB[Kclases
+[7m(END)[27m[K[K [KESCESC[KOO[KDD[H[2J[HThis is a third test
+I have append a line!
+This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+me llamo delfi
+ciencia de datos
+economia
+clases
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[HMThis is a second test
+[16;1H[K:[K[K [KESCESC[KOO[KCC[H[2J[H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:[K[K [KESCESC[KOO[KDD[H[2J[HThis is a second test
+This is a third test
+I have append a line!
+This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+me llamo delfi
+ciencia de datos
+economia
+:[K[K [KESCESC[KOO[KAA[K[HMThis is a test
+[16;1H[K:[K[K [KESCESC[KOO[KAA[K[HMThis is a third test
+[16;1H[K:[K[K [KESCESC[KOO[KAA[K[HMThis is a second test
+[16;1H[K:[K[K [KESCESC[KOO[KBB[Kme llamo delfi
+:[K[K [KESCESC[KOO[KBB[Kciencia de datos
+:[K[K [KESCESC[KOO[KBB[Keconomia
+:[K[K [KESCESC[KOO[KBB[Kclases
+[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004heexe echo 'lowe    Lowercase     case' > a.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004heecho ' Upper case' > A.TXT[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004heecho 'Mixed case' > A.tz xt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmmv combined.txt dir1[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls dir1[?2004l
+combined.txt
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmmv dir1/* .[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmmv combined.txt test_* dir3 dir2[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls[?2004l
+3		another		dir2		folder		folder2		folder5		folder7
+a.txt		dir1		dir4		folder1		folder4		folder6		output.txt
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls dir2[?2004l
+combined.txt	dir3		test_1.txt	test_2.txt	test_3.txt
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmmv dir2/combined.txt dir4/dir5/dir6[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls dir2[?2004l
+dir3		test_1.txt	test_2.txt	test_3.txt
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls dir4/dir5/dir6[?2004l
+combined.txt
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hccp dir   dir4/dir5/dir6/combined.txt .[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls l  cp dir4/dir5/dir6/combined.txt .[32Dls[15C               [15D[?2004l
+combined.txt
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls[?2004l
+3		another		dir1		dir4		folder1		folder4		folder6		output.txt
+a.txt		combined.txt	dir2		folder		folder2		folder5		folder7
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hccp combined.txt backup_combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls[?2004l
+3			combined.txt		folder			folder5
+a.txt			dir1			folder1			folder6
+another			dir2			folder2			folder7
+backup_combined.txt	dir4			folder4			output.txt
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmmv backup_combined.txt combined_backa up.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls[?2004l
+3			combined.txt		folder			folder5
+a.txt			dir1			folder1			folder6
+another			dir2			folder2			folder7
+combined_backup.txt	dir4			folder4			output.txt
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmmv 'folde1 r1' folder_1[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmv 'folder1' folder_121[1C[1C[1C[1C [P[11C [12D21' folder_2[11D[1C[1C[1C[P[10C [11D[P[10C [11Dr' folder_2[10D2' folder_2[10D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmv 'folder2' folder_232[1C[1C[1C[1C[1C[1C2 [1C[1C[1C 3[1C[P[10C [11D3' folder_3[10D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+mv: rename folder3 to folder_3: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmv 'folder3' folder_3[1C 4[P[10C [11D4' folder_4[10D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmv 'folder4' folder_4[1C 5[1C[P[10C [11D5' folder_5[10D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmv 'folder5' folder_5 6[P[10C [11D6' folder_6[10D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmv 'folder6' folder_6 7[P[10C [11D7' folder_7[10D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls[?2004l
+3			combined.txt		folder			folder_5
+a.txt			dir1			folder_1		folder_6
+another			dir2			folder_2		folder_7
+combined_backup.txt	dir4			folder_4		output.txt
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hrrm dir47 /dir/ 5/dir6/comn bined.txt combined_txt.    backup.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hrrmfolder       folder_*[?2004l
+rm: folder_1: is a directory
+rm: folder_2: is a directory
+rm: folder_4: is a directory
+rm: folder_5: is a directory
+rm: folder_6: is a directory
+rm: folder_7: is a directory
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hrrmdir folder_*[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls[?2004l
+3		another		dir1		dir4		output.txt
+a.txt		combined.txt	dir2		folder
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hwwc -l combined.txt[?2004l
+      20 combined.txt
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls ~ > fil_list.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hwwc -l file_list.txt[?2004l
+wc: file_list.txt: open: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls l  wwc -l fil_list.txt[?2004l
+      11 fil_list.txt
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hrrm_   fil_list.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls ~|  | wc -l[?2004l
+      11
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlla l ls /etc|wc -l[?2004l
+      75
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hlls /etc|  | less[?2004l
+[?1049h[16;1H[?1h=afpovertcp.cfg
+aliases
+aliases.db
+apache2
+asl
+asl.conf
+auto_home
+auto_master
+autofs.conf
+bashrc
+bashrc_Apple_Terminal
+com.apple.screensharing.agent.launchd
+csh.cshrc
+csh.login
+csh.logout
+:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KBB[Kcups
+:[K[K [KESCESC[KOO[KBB[Kfind.codes
+:[K[K [KESCESC[KOO[KBB[Kftpusers
+:[K[K [KESCESC[KOO[KBB[Kgettytab
+:[K[K [KESCESC[KOO[KBB[Kgroup
+:[K[K [KESCESC[KOO[KBB[Khosts
+:[K[K [KESCESC[KOO[KBB[Khosts.equiv
+:[K[K [KESCESC[KOO[KBB[Kirbrc
+:[K[K [KESCESC[KOO[KDD[H[2J[Hautofs.conf
+bashrc
+bashrc_Apple_Terminal
+com.apple.screensharing.agent.launchd
+csh.cshrc
+csh.login
+csh.logout
+cups
+find.codes
+ftpusers
+gettytab
+group
+hosts
+hosts.equiv
+irbrc
+:[K[K [KESCESC[KOO[KDD[H[2J[Hautofs.conf
+bashrc
+bashrc_Apple_Terminal
+com.apple.screensharing.agent.launchd
+csh.cshrc
+csh.login
+csh.logout
+cups
+find.codes
+ftpusers
+gettytab
+group
+hosts
+hosts.equiv
+irbrc
+:[K[K [KESCESC[KOO[KCC[H[2J[H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:[K[K [KESCESC[KOO[KDD[H[2J[Hautofs.conf
+bashrc
+bashrc_Apple_Terminal
+com.apple.screensharing.agent.launchd
+csh.cshrc
+csh.login
+csh.logout
+cups
+find.codes
+ftpusers
+gettytab
+group
+hosts
+hosts.equiv
+irbrc
+:[K[K [KESCESC[KOO[KAA[K[HMauto_master
+[16;1H[K:[K[K [KESCESC[KOO[KAA[K[HMauto_home
+[16;1H[K:[K[K [KESCESC[KOO[KAA[K[HMasl.conf
+[16;1H[K:[K[K [KESCESC[KOO[KAA[K[HMasl
+[16;1H[K:[K[K [KESCESC[KOO[KAA[K[HMapache2
+[16;1H[K:[K[K [KESCESC[KOO[KAA[K[HMaliases.db
+[16;1H[K:[K[K [KESCESC[KOO[KAA[K[HMaliases
+[16;1H[K:[K[K [KESCESC[KOO[KAA[K[HMafpovertcp.cfg
+[16;1H[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KBB[Kcups
+:[K[K [KESCESC[KOO[KBB[Kfind.codes
+:[K[K [KESCESC[KOO[KBB[Kftpusers
+:[K[K [KESCESC[KOO[KBB[Kgettytab
+:[K[K [KESCESC[KOO[KBB[Kgroup
+:[K[K [KESCESC[KOO[KBB[Khosts
+:[K[K [KESCESC[KOO[KBB[Khosts.equiv
+:[K[K [KESCESC[KOO[KBB[Kirbrc
+:[K[K [KESCESC[KOO[KBB[Kkern_loader.conf
+:[K[K [KESCESC[KOO[KBB[Kkrb5.keytab
+:[K[K [KESCESC[KOO[KBB[Klocaltime
+:[K[K [KESCESC[KOO[KBB[Klocate.rc
+:[K[K [KESCESC[KOO[KBB[Kmail.rc
+:[K[K [KESCESC[KOO[KBB[Kman.conf
+:[K[K [KESCESC[KOO[KBB[Kmanpaths
+:[K[K [KESCESC[KOO[KBB[Kmanpaths.d
+:[K[K [KESCESC[KOO[KBB[Kmaster.passwd
+:[K[K [KESCESC[KOO[KBB[Knetworks
+:[K[K [KESCESC[KOO[KBB[Knewsyslog.conf
+:[K[K [KESCESC[KOO[KBB[Knewsyslog.d
+:[K[K [KESCESC[KOO[KBB[Knfs.conf
+:[K[K [KESCESC[KOO[KBB[Knotify.conf
+:[K[K [KESCESC[KOO[KBB[Kntp_opendirectory.conf
+:[K[K [KESCESC[KOO[KBB[Kntp.conf
+:[K[K [KESCESC[KOO[KBB[Kopenldap
+:[K[K [KESCESC[KOO[KBB[Kpam.d
+:[K[K [KESCESC[KOO[KBB[Kpasswd
+:[K[K [KESCESC[KOO[KBB[Kpaths
+:[K[K [KESCESC[KOO[KBB[Kpaths.d
+:[K[K [KESCESC[KOO[KBB[Kpf.anchors
+:[K[K [KESCESC[KOO[KBB[Kpf.conf
+:[K[K [KESCESC[KOO[KBB[Kpf.os
+:[K[K [KESCESC[KOO[KBB[Kpostfix
+:[K[K [KESCESC[KOO[KBB[Kppp
+:[K[K [KESCESC[KOO[KBB[Kprofile
+:[K[K [KESCESC[KOO[KBB[Kprotocols
+:[K[K [KESCESC[KOO[KBB[Kracoon
+:[K[K [KESCESC[KOO[KBB[Krc.common
+:[K[K [KESCESC[KOO[KBB[Krc.netboot
+:[K[K [KESCESC[KOO[KBB[Kresolv.conf
+:[K[K [KESCESC[KOO[KBB[Krmtab
+:[K[K [KESCESC[KOO[KBB[Krpc
+:[K[K [KESCESC[KOO[KBB[Krtadvd.conf
+:[K[K [KESCESC[KOO[KBB[Ksecurity
+:[K[K [KESCESC[KOO[KBB[Kservices
+:[K[K [KESCESC[KOO[KBB[Kshells
+:[K[K [KESCESC[KOO[KBB[Ksnmp
+:[K[K [KESCESC[KOO[KBB[Kssh
+:[K[K [KESCESC[KOO[KBB[Kssl
+:[K[K [KESCESC[KOO[KBB[Ksudo_lecture
+:[K[K [KESCESC[KOO[KBB[Ksudoers
+:[K[K [KESCESC[KOO[KBB[Ksudoers.d
+:[K[K [KESCESC[KOO[KBB[Ksyslog.conf
+:[K[K [KESCESC[KOO[KBB[Kttys
+:[K[K [KESCESC[KOO[KBB[Kuucp
+:[K[K [KESCESC[KOO[KBB[Kwfs
+:[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hccta c cat combined.txt | uniq | wc ~ -l[?2004l
+      20
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hccat combined.txt | uniq | less[?2004l
+[?1049h[16;1H[?1h=This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+I have append a line!
+This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+:[K[K [KESCESC[KOO[KBB[KThis is a third test
+:[K[K [KESCESC[KOO[KBB[Kme llamo delfi
+:[K[K [KESCESC[KOO[KBB[Kciencia de datos
+:[K[K [KESCESC[KOO[KBB[Keconomia
+:[K[K [KESCESC[KOO[KBB[Kclases
+:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[HMThis is a second test
+[16;1H[K:[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hmman uniq[?2004l
+[?1049h[16;1H[?1h=UNIQ(1)                                             General Commands Manual                                            UNIQ(1)
+
+[1mNAME[0m
+     [1muniq[0m – report or filter out repeated lines in a file
+
+[1mSYNOPSIS[0m
+     [1muniq[0m [[1m-cdiu[0m] [[1m-D[0m[[4mseptype[24m]] [[1m-f[0m [4mnum[24m] [[1m-s[0m [4mchars[24m] [[4minput_file[24m [[4moutput_file[24m]]
+
+[1mDESCRIPTION[0m
+     The [1muniq[0m utility reads the specified [4minput_file[24m comparing adjacent lines, and writes a copy of each unique input line to
+     the [4moutput_file[24m.  If [4minput_file[24m is a single dash (‘[1m-[0m’) or absent, the standard input is read.  If [4moutput_file[24m is absent,
+     standard output is used for output.  The second and succeeding copies of identical adjacent input lines are not written.
+     Repeated lines in the input will not be detected if they are not adjacent, so it may be necessary to sort the files
+     first.
+
+:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KBB[K     The following options are available:
+:[K[K [KESCESC[KOO[KAA[K[HMUNIQ(1)                                             General Commands Manual                                            UNIQ(1)
+[16;1H[K:[K[K [KESCESC[KOO[KBB[K     The following options are available:
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K     [1m-c[0m, [1m--count[0m
+:[K[K [KESCESC[KOO[KBB[K             Precede each output line with the count of the number of times the line occurred in the input, followed by a
+:[K[K [KESCESC[KOO[KBB[K             single space.
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K     [1m-d[0m, [1m--repeated[0m
+:[K[K [KESCESC[KOO[KBB[K             Output a single copy of each line that is repeated in the input.  Ignored if [1m-D[0m is also specified.
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K     [1m-D[0m, [1m--all-repeated[0m [[4mseptype[24m]
+:[K[K [KESCESC[KOO[KBB[K             Output all lines that are repeated (like [1m-d[0m, but each copy of the repeated line is written).  The optional
+:[K[K [KESCESC[KOO[KBB[K             [4mseptype[24m argument controls how to separate groups of repeated lines in the output; it must be one of the following
+:[K[K [KESCESC[KOO[KBB[K             values:
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K             none      Do not separate groups of lines (this is the default).
+:[K[K [KESCESC[KOO[KBB[K             prepend   Output an empty line before each group of lines.
+:[K[K [KESCESC[KOO[KBB[K             separate  Output an empty line after each group of lines.
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K     [1m-f[0m [4mnum[24m, [1m--skip-fields[0m [4mnum[24m
+:[K[K [KESCESC[KOO[KBB[K             Ignore the first [4mnum[24m fields in each input line when doing comparisons.  A field is a string of non-blank
+:[K[K [KESCESC[KOO[KBB[K             characters separated from adjacent fields by blanks.  Field numbers are one based, i.e., the first field is field
+:[K[K [KESCESC[KOO[KBB[K             one.
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K     [1m-i[0m, [1m--ignore-case[0m
+:[K[K [KESCESC[KOO[KBB[K             Case insensitive comparison of lines.
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K     [1m-s[0m [4mchars[24m, [1m--skip-chars[0m [4mchars[24m
+:[K[K [KESCESC[KOO[KBB[K             Ignore the first [4mchars[24m characters in each input line when doing comparisons.  If specified in conjunction with
+:[K[K [KESCESC[KOO[KBB[K             the [1m-f[0m, [1m--unique[0m option, the first [4mchars[24m characters after the first [4mnum[24m fields will be ignored.  Character
+:[K[K [KESCESC[KOO[KBB[K             numbers are one based, i.e., the first character is character one.
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K     [1m-u[0m, [1m--unique[0m
+:[K[K [KESCESC[KOO[KBB[K             Only output lines that are not repeated in the input.
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K[1mENVIRONMENT[0m
+:[K[K [KESCESC[KOO[KBB[K     The LANG, LC_ALL, LC_COLLATE and LC_CTYPE environment variables affect the execution of [1muniq[0m as described in environ(7).
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K[1mEXIT[0m [1mSTATUS[0m
+:[K[K [KESCESC[KOO[KBB[K     The [1muniq[0m utility exits 0 on success, and >0 if an error occurs.
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K[1mEXAMPLES[0m
+:[K[K [KESCESC[KOO[KBB[K     Assuming a file named cities.txt with the following content:
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K           Madrid
+:[K[K [KESCESC[KOO[KBB[K           Lisbon
+:[K[K [KESCESC[KOO[KBB[K           Madrid
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K     The following command reports three different lines since identical elements are not adjacent:
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K           $ uniq -u cities.txt
+:[K[K [KESCESC[KOO[KBB[K           Madrid
+:[K[K [KESCESC[KOO[KBB[K           Lisbon
+:[K[K [KESCESC[KOO[KBB[K           Madrid
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K     Sort the file and count the number of identical lines:
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K           $ sort cities.txt | uniq -c
+:[K[K [KESCESC[KOO[KBB[K                   1 Lisbon
+:[K[K [KESCESC[KOO[KBB[K                   2 Madrid
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K     Assuming the following content for the file cities.txt:
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K           madrid
+:[K[K [KESCESC[KOO[KBB[K           Madrid
+:[K[K [KESCESC[KOO[KBB[K           Lisbon
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K     Show repeated lines ignoring case sensitiveness:
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K           $ uniq -d -i cities.txt
+:[K[K [KESCESC[KOO[KBB[K           madrid
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K     Same as above but showing the whole group of repeated lines:
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K           $ uniq -D -i cities.txt
+:[K[K [KESCESC[KOO[KBB[K           madrid
+:[K[K [KESCESC[KOO[KBB[K           Madrid
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K     Report the number of identical lines ignoring the first character of every line:
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K           $ uniq -s 1 -c cities.txt
+:[K[K [KESCESC[KOO[KBB[K                   2 madrid
+:[K[K [KESCESC[KOO[KBB[K                   1 Lisbon
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K[1mCOMPATIBILITY[0m
+:[K[K [KESCESC[KOO[KBB[K     The historic [1m+[0m[4mnumber[24m and [1m-[0m[4mnumber[24m options have been deprecated but are still supported in this implementation.
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K[1mSEE[0m [1mALSO[0m
+:[K[K [KESCESC[KOO[KBB[K     sort(1)
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K[1mSTANDARDS[0m
+:[K[K [KESCESC[KOO[KBB[K     The [1muniq[0m utility conforms to IEEE Std 1003.1-2001 (“POSIX.1”) as amended by Cor. 1-2002.
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K[1mHISTORY[0m
+:[K[K [KESCESC[KOO[KBB[K     A [1muniq[0m command appeared in Version 3 AT&T UNIX.
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[KmacOS 26.5                                             December 9, 2024                                             macOS 26.5
+:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hssot rt combined.txt | less[?2004l
+[?1049h[16;1H[?1h=ciencia de datos
+clases
+economia
+I have append a line!
+me llamo delfi
+This is a second test
+This is a second test
+This is a second test
+This is a second test
+This is a second test
+This is a test
+This is a test
+This is a test
+This is a test
+This is a test
+:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KBB[KThis is a third test
+:[K[K [KESCESC[KOO[KBB[KThis is a third test
+:[K[K [KESCESC[KOO[KBB[KThis is a third test
+:[K[K [KESCESC[KOO[KBB[KThis is a third test
+:[K[K [KESCESC[KOO[KBB[KThis is a third test
+:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004hssort combined.txt | uniq | wc-  -l[?2004l
+       8
+[1m[7m%[27m[1m[0m                                                                                                                                [0m[27m[24m[Jdelfi@MacBook-Neo-de-Delfi tutorial % [K[?2004heexcit   it[?2004l
+
+Script done on Wed Aug 26 20:28:42 2026
