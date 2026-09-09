@@ -1,5 +1,5 @@
 
-# Tarea 02 capítulo1  -----------------------------------------------------
+# Tarea 03capítulo1  -----------------------------------------------------
 
 # Data Visualization
 
@@ -86,6 +86,103 @@ ggplot(
   ) +
   scale_color_colorblind()
 
+# Exercise:
+
+# 1.How many rows are in penguins? How many columns?
+nrow(penguins)
+ncol(penguins)
+glimpse(penguins)
+# Con estas formas podemos ver que hay 8 columnas y 344 filas
+
+# 2. What does the bill_depth_mm variable in the penguins data frame describe? Read the help for ?penguins to find out.
+?penguins
+# Mide la profundidad del pico en milimertos. Es una variable numerica
+
+# 3. Make a scatterplot of bill_depth_mm vs. bill_length_mm. That is, make a scatterplot with bill_depth_mm on the y-axis and bill_length_mm on the x-axis. Describe the relationship between these two variables.
+ggplot(
+  data = penguins,
+  mapping = aes(x = bill_length_mm, y = bill_depth_mm)
+) +
+  geom_point(aes(color = species, shape = species)) +
+  geom_smooth(method = "lm") +
+  labs(
+    title = "Bill length and depth",
+    subtitle = "Adelie, Chinstrap, and Gentoo Penguins",
+    x = "Bill length (mm)", y = "Bill depth (mm)",
+    color = "Species", shape = "Species"
+  ) +
+  scale_color_colorblind()
+
+# En el grafico, la linea lm global muestra una tendencia negativa, por lo que enterminos generales, cuanto mas largo el pico, menos profundo.
+# Si miramos cada especie en particular: Adelie tienen en su mayoria picos cortos pero profundos; Chinstrap tienen picos mas bien profundos y mas largos que los Adelie; Gentoo tinen picos largos y poco profundos.
+
+
+# 4. What happens if you make a scatterplot of species vs. bill_depth_mm? What might be a better choice of geom?
+ggplot(
+  data = penguins, mapping = aes(x = species, y = bill_depth_mm)) +
+  geom_boxplot()
+# Con el boxplot vemos la distribucion de una variable numerica dentro de cada categoria. Tambien nos permite ver outliers.
+
+
+# 5. Why does the following give an error and how would you fix it?
+ggplot(data = penguins) + 
+  geom_point()
+# Cuando lo corremos, el error nos indica que nos falta definir los ejes (x;y)
+# Habria que agregar despues de data: mapping = aes (x = ..., y =...)
+
+
+# 6. What does the na.rm argument do in geom_point()? What is the default value of the argument? Create a scatterplot where you successfully use this argument set to TRUE.
+?geom_point
+# El default de na.rm es FALSE, los valores missing se remueven y sale un aviso. Si ponemos TRUE, los missing values se remueven pero sin aviso
+# con na.rm = TRUE
+ggplot(data = penguins, mapping = aes(x = bill_length_mm, y = bill_depth_mm)) + 
+  geom_point(na.rm = TRUE)
+
+# 7. Add the following caption to the plot you made in the previous exercise: “Data come from the palmerpenguins package.” Hint: Take a look at the documentation for labs().
+ggplot(data = penguins, mapping = aes(x = bill_length_mm, y = bill_depth_mm)) + 
+  geom_point(na.rm = TRUE) + 
+  labs(caption = "Data come from the palmerpenguins package.")
+
+
+# 8. Recreate the following visualization. What aesthetic should bill_depth_mm be mapped to? And should it be mapped at the global level or at the geom level?
+ggplot(data = penguins, mapping = aes(x = flipper_length_mm, y = body_mass_g)) +
+  geom_point(aes(color = bill_depth_mm)) +
+  geom_smooth() +
+  labs(caption = "Data come from the palmerpenguins package.")
+# El bill_depth_mm va mapped al nivel del geom point, para que se coloren los puntos segun bill depth.
+
+
+# 9. Run this code in your head and predict what the output will look like. Then, run the code in R and check your predictions.
+# El grafico va a ser de las islas y va a eliminar los missing values. Como color esta a nivel del ggplot, vamos a ver una curva por isla
+ggplot(
+  data = penguins,
+  mapping = aes(x = flipper_length_mm, y = body_mass_g, color = island)
+) +
+  geom_point() +
+  geom_smooth(se = FALSE)
+
+# 10. Will these two graphs look different? Why/why not?
+# Gráfico A
+ggplot(
+  data = penguins,
+  mapping = aes(x = flipper_length_mm, y = body_mass_g)
+) +
+  geom_point() +
+  geom_smooth()
+
+# Gráfico B
+ggplot() +
+  geom_point(
+    data = penguins,
+    mapping = aes(x = flipper_length_mm, y = body_mass_g)
+  ) +
+  geom_smooth(
+    data = penguins,
+    mapping = aes(x = flipper_length_mm, y = body_mass_g)
+  )
+
+# Los graficos son iguales. Mas alla del que el grafico B tenga el mapping en geom_smooth, los valores de los geom son los mismos.
+
 
 ## Visualizing distributions ----
 
@@ -114,6 +211,40 @@ ggplot(penguins, aes(x = body_mass_g)) +
 # Una visualización alternativa para las distribuciones de variables numéricas es un gráfico de densidad. Un gráfico de densidad es una versión suavizada de un histograma
 ggplot(penguins, aes(x = body_mass_g)) +
   geom_density()
+
+
+# Exercises:
+
+# 1. Make a bar plot of species of penguins, where you assign species to the y aesthetic. How is this plot different?
+ggplot(penguins, aes(y = species)) +
+  geom_bar()
+# Ahora las barras son horizontales
+
+
+# 2. How are the following two plots different? Which aesthetic, color or fill, is more useful for changing the color of bars?
+ggplot(penguins, aes(x = species)) +
+  geom_bar(color = "red")
+
+ggplot(penguins, aes(x = species)) +
+  geom_bar(fill = "red")
+# El segundo dice fill, lo que hace que se rellene la barra del color, el primero solo cambia el borde de color
+
+
+# 3. What does the bins argument in geom_histogram() do?
+?geom_histogram
+# Indica en cuantos intervalos se van a dividir los valores de la variable y cuantas observaciones va a haber en cada uno
+  
+# 4. Make a histogram of the carat variable in the diamonds dataset that is available when you load the tidyverse package. Experiment with different binwidths. What binwidth reveals the most interesting patterns?
+
+ggplot(diamonds, aes(x = carat)) +
+  geom_histogram(binwidth = 0.1)
+
+ggplot(diamonds, aes(x = carat)) +
+  geom_histogram(binwidth = 0.5)
+
+ggplot(diamonds, aes(x = carat)) +
+  geom_histogram(binwidth = 0.05)
+
 
 ## Visualizing relationships ----
 
@@ -176,10 +307,122 @@ ggplot(penguins, aes(x = flipper_length_mm, y = body_mass_g)) +
   facet_wrap(~island)
 
 
+
+# Exercises:
+
+# 1.The mpg data frame that is bundled with the ggplot2 package contains 234 observations collected by the US Environmental Protection Agency on 38 car models. Which variables in mpg are categorical? Which variables are numerical? (Hint: Type ?mpg to read the documentation for the dataset.) How can you see this information when you run mpg?
+?mpg
+# Categorical: manufacture; model; trans; drv; fl; class
+# Numerical: displ; year; cyl; cty; hwy
+
+# 2. Make a scatterplot of hwy vs. displ using the mpg data frame. Next, map a third, numerical variable to color, then size, then both color and size, then shape. How do these aesthetics behave differently for categorical vs. numerical variables?
+ggplot(mpg, aes(x = displ, y = hwy)) +
+  geom_point()
+
+ggplot(mpg, aes(x = displ, y = hwy, color = cyl)) +
+  geom_point()
+
+ggplot(mpg, aes(x = displ, y = hwy, size = cyl)) +
+  geom_point()
+
+ggplot(mpg, aes(
+  x = displ,
+  y = hwy,
+  color = cyl,
+  size = cyl
+)) +
+  geom_point()
+
+ggplot(mpg, aes(
+  x = displ,
+  y = hwy,
+  shape = cyl
+)) +
+  geom_point()
+
+# Con este ultimo sale un error, porque cyl es una variable continua y el comando shape() necesita una variable categorica o discreta para funcionar
+ggplot(mpg, aes(x = displ, y = hwy, shape = class)) +
+  geom_point()
+# Probamos con una categorica como class y vemos que funciona
+
+# 3. In the scatterplot of hwy vs. displ, what happens if you map a third variable to linewidth?
+ggplot(mpg, aes(x = displ, y = hwy, linewidth = cyl)) +
+  geom_point()
+# Mapear una variable a linewidth no cambia visualmente los puntos en geom_point(), porque linewidth se usa principalmente para las geometrías de líneas.
+
+# 4. What happens if you map the same variable to multiple aesthetics?
+# Vamos a poder identificar mejor las variables
+ggplot(penguins, aes(
+  x = flipper_length_mm,
+  y = body_mass_g,
+  color = species,
+  shape = species
+)) +
+  geom_point()
+# En el ejemplo vemos que le asignamos form ay color a las especies para distinguirlas mejor
+
+# 5. Make a scatterplot of bill_depth_mm vs. bill_length_mm and color the points by species. What does adding coloring by species reveal about the relationship between these two variables? What about faceting by species?
+ggplot(penguins, aes(x = bill_length_mm, y = bill_depth_mm, color = species)) +
+  geom_point()
+# Podemos ver la relacion entre el largo y l aprofundidad del pico segun la especie
+# El faceting nos va a devolver un grafico para cada especie:
+ggplot(penguins, aes(x = bill_length_mm, y = bill_depth_mm)) +
+  geom_point() +
+  facet_wrap(~species)
+# Ahora la relacion se ve mas clara porque tenemos 3 graficos distintos.
+
+# 6. Why does the following yield two separate legends? How would you fix it to combine the two legends?
+
+ggplot(
+  data = penguins,
+  mapping = aes(
+    x = bill_length_mm, y = bill_depth_mm, 
+    color = species, shape = species
+  )
+) +
+  geom_point() +
+  labs(color = "Species")
+# Esto pasa porque en labs solo le pusimos el nombre a la legend color. Si le agregamos la de shape, va a identificar que es la misma en ambos casos y combinarla
+ggplot(
+  data = penguins,
+  mapping = aes(
+    x = bill_length_mm, 
+    y = bill_depth_mm, 
+    color = species, 
+    shape = species
+  )
+) +
+  geom_point() +
+  labs(color = "Species", shape = "Species")
+
+
+# 7. Create the two following stacked bar plots. Which question can you answer with the first one? Which question can you answer with the second one?
+
+ggplot(penguins, aes(x = island, fill = species)) +
+  geom_bar(position = "fill")
+ggplot(penguins, aes(x = species, fill = island)) +
+  geom_bar(position = "fill")
+
+# Con el primer grafico vemos las especies en cada isla. Que porcentaje de cada especie esta en cada isla.
+# Con el segundo vemos las islas en las que esta cada especie. De una especie en particular, que porcentaje vive en cada isla
+
 # Saving your plots
 # Una vez que hayas creado un gráfico, es posible que quieras sacarlo de R guardándolo como una imagen que puedas utilizar en otro lugar. Esa es la función de ggsave(), que guarda en el disco el gráfico creado más recientemente:
 ggplot(penguins, aes(x = flipper_length_mm, y = body_mass_g)) +
   geom_point()
 ggsave(filename = "penguin-plot.png")
 
-# Esto guardará tu gráfico en tu directorio de trabajo
+# Exercices:
+
+# 1. Run the following lines of code. Which of the two plots is saved as mpg-plot.png? Why?
+
+ggplot(mpg, aes(x = class)) +
+  geom_bar()
+ggplot(mpg, aes(x = cty, y = hwy)) +
+  geom_point()
+ggsave("mpg-plot.png")
+
+# Se guarda el segundo, porque el comando ggsave(), sin especificar cual, guarda el ultimo grafico que se crea
+
+# 2. What do you need to change in the code above to save the plot as a PDF instead of a PNG? How could you find out what types of image files would work in ggsave()?
+# Hay que cambiar el .png por .pdf
